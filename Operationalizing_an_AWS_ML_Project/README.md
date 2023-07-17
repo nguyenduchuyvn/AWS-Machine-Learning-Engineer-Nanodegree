@@ -149,4 +149,4 @@ In addition to setting up concurrency for your Lambda function, you should also 
 
 ![image](image/auto-scale.JPG)
 
-![image](image/auto-scaleCapture)
+![image](image/auto-scaleCapture.JPG)
